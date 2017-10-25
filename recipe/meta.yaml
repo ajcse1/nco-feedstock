@@ -27,6 +27,7 @@ requirements:
     - bison
     - flex
     - m4
+    - libssh2
   run:
     - gsl >=2.2,<2.3
     - hdf5 1.8.18|1.8.18.*
